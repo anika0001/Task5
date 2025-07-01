@@ -1,0 +1,4 @@
+Start_Time,End_Time,Severity,State,City,Weather_Condition,Temperature(F),Visibility(mi),Wind_Speed(mph),Precipitation(in),Latitude,Longitude
+2021-01-01 08:00:00,2021-01-01 09:00:00,2,CA,Los Angeles,Clear,65.0,10.0,5.0,0.0,34.0522,-118.2437
+2021-01-02 17:30:00,2021-01-02 18:00:00,3,TX,Houston,Rain,72.0,5.0,7.0,0.2,29.7604,-95.3698
+2021-01-03 22:45:00,2021-01-03 23:15:00,2,FL,Miami,Cloudy,78.0,7.0,3.0,0.0,25.7617,-80.1918
